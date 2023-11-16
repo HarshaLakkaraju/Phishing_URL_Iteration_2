@@ -1,0 +1,15 @@
+beautifulsoup4==4.9.3
+Flask
+googlesearch-python
+pandas==1.3.4
+python_dateutil==2.8.2
+requests
+scikit-learn
+whois
+gunicorn
+plotly
+numpy
+pandas
+matplotlib
+seaborn
+catboost
